@@ -1,0 +1,5 @@
+INSERT INTO classes VALUES ("Java", "B230","MON_AM","1103",);
+INSERT INTO classes VALUES ("Csharp", "B122","TUE_PM","1247",);
+
+
+
